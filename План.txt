@@ -12,4 +12,7 @@
 
 6. EPC-модель +++
 
-7. GITHUB
+7. UML
+
+8. GITHUB
+
